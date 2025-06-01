@@ -1,0 +1,22 @@
+.pink
+{
+    background-color: #db94a3;
+    font-family: Verdana, sans-serif;
+}
+
+.forFont
+{
+    font-size: 42px;
+}
+
+#num2
+{
+    color: blue;
+    font-size: 36px;
+}
+
+#num3
+{
+    background-color: aquamarine;
+    font-weight: bold;
+}

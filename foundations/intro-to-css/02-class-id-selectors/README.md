@@ -20,6 +20,7 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 
 ### Self Check
-- Do the odd numbered `p` elements share a class?
-- Do the even numbered `div` elements have unique IDs?
-- Does the Number 3 element have multiple classes?
+- Do the odd numbered `p` elements share a class? yes lahat naka pink class
+- Do the even numbered `div` elements have unique IDs? yes tig isa silang id
+- Does the Number 3 element have multiple classes? yes eto natutunan ko pag gamit ng dalawangg class hahhaha naguluhan ako ginawa ko pang id. pero oks din pala yun para nagagamit yung class ehhehe nice lesson.
+
