@@ -1,0 +1,20 @@
+.all{
+    font-size: 28px;
+    font-family:  Helvetica, "Times New Roman", sans-serif;
+}
+
+.oneBlack{
+    background-color: black;
+    color: white;
+}
+.twoYellow{
+   background-color: yellow;
+}
+
+/*  .oneBlack , .twoYellow 
+{
+    font-size: 28px;
+    font-family:  Helvetica, "Times New Roman", sans-serif;
+}
+
+ */
